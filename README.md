@@ -1,3 +1,3 @@
 # breakfast_website
 
-https://ch-webdev.github.io/breakfast_website/
+Landing page of a fake restaurant selling breakfast.
